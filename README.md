@@ -34,8 +34,7 @@ ico-list
 
 ## 説明
 ico投資家が投資をする判断材料の1つとして見ていただくのがico-listです。サービスを提供初めました。
-## アプリURL
-https://ico-list.work
+　
 ## 使い方
 詐欺と思われるicoを見つけた場合は新規登録からログイン後ico追加画面にてico名と詐欺である内容を投稿していく形式です。
 
@@ -62,6 +61,6 @@ https://ico-list.work
 
 ## Author
 
-[qiita](https://qiita.com/siraki)
+[qiita](https://qiita.com/matsuma)
 
 
